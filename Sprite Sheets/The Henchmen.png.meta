@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: bbe1b4fc60ed4cc47a73ae81492df0b4
+timeCreated: 1507088308
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Standing
+    21300002: Pistol 1
+    21300004: Pistol 2
+    21300006: Pistol 3
+    21300008: Pistol 4
+    21300010: Pistol 5
+    21300012: Pistol 6
+    21300014: Firing Pistol
+    21300016: Firing Mac 10
+    21300018: Mac 10 1
+    21300020: Mac 10 2
+    21300022: Mac 10 3
+    21300024: Mac 10 4
+    21300026: Mac 10 5
+    21300028: Mac 10 6
+    21300030: Mac 10 7
+    21300032: Mac 10 8
+    21300034: Mac 10 9
+    21300036: Shotgun 1
+    21300038: Shotgun 2
+    21300040: Shotgun 3
+    21300042: Shotgun 4
+    21300044: Firing Shotgun 1
+    21300046: Firing Shotgun 2
+    21300048: Firing Shotgun 3
+    21300050: Firing Shotgun 4
+    21300052: Firing Shotgun 5
+    21300054: Firing Shotgun 6
+    21300056: Firing Shotgun 7
+    21300058: Firing Shotgun 8
+    21300060: Firing Shotgun 9
+    21300062: Firing Shotgun 10
+    21300064: Firing Shotgun 11
+    21300066: Firing Shotgun 12
+    21300068: Reload Pistol 1
+    21300070: Reload Pistol 2
+    21300072: Reload Pistol 3
+    21300074: Reload Pistol 4
+    21300076: Reload Pistol 5
+    21300078: Reload Pistol 6
+    21300080: Reload Pistol 7
+    21300082: Reload Pistol 8
+    21300084: Pistol
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 108
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standing
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 550
+        width: 13
+        height: 24
+      alignment: 9
+      pivot: {x: 0.53063965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 456
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.19384912, y: 0.47431123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 456
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.20219058, y: 0.47024065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 3
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 456
+        width: 42
+        height: 13
+      alignment: 9
+      pivot: {x: 0.20467994, y: 0.4677664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 456
+        width: 41
+        height: 13
+      alignment: 9
+      pivot: {x: 0.20156488, y: 0.5322336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 456
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.20398255, y: 0.5713959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol 6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 456
+        width: 38
+        height: 15
+      alignment: 9
+      pivot: {x: 0.19447407, y: 0.5358826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Pistol
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 118
+        width: 49
+        height: 13
+      alignment: 9
+      pivot: {x: 0.17132132, y: 0.47761008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Mac 10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 168
+        width: 45
+        height: 15
+      alignment: 9
+      pivot: {x: 0.19093153, y: 0.5446848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 402
+        width: 37
+        height: 15
+      alignment: 9
+      pivot: {x: 0.22829624, y: 0.600531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 2
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 376
+        width: 38
+        height: 15
+      alignment: 9
+      pivot: {x: 0.21785054, y: 0.5538025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 349
+        width: 38
+        height: 16
+      alignment: 9
+      pivot: {x: 0.21785054, y: 0.5720539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 324
+        width: 38
+        height: 15
+      alignment: 9
+      pivot: {x: 0.22088382, y: 0.5307434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 298
+        width: 37
+        height: 15
+      alignment: 9
+      pivot: {x: 0.23203588, y: 0.60760295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 272
+        width: 36
+        height: 16
+      alignment: 9
+      pivot: {x: 0.23099688, y: 0.63690376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 247
+        width: 34
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2185642, y: 0.56484985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 220
+        width: 36
+        height: 16
+      alignment: 9
+      pivot: {x: 0.23419952, y: 0.63690376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mac 10 9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 194
+        width: 37
+        height: 15
+      alignment: 9
+      pivot: {x: 0.22891977, y: 0.5999166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 388
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.31482545, y: 0.5911901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotgun 2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 363
+        width: 30
+        height: 16
+      alignment: 9
+      pivot: {x: 0.34927776, y: 0.64533615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotgun 3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 338
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.31052044, y: 0.5835912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shotgun 4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 313
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2838562, y: 0.5352083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 288
+        width: 39
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2411092, y: 0.6085672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 2
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 262
+        width: 40
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2584366, y: 0.63570976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 238
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.3122701, y: 0.59139204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 214
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.27774456, y: 0.53427213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 188
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28205973, y: 0.53427213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 163
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28391927, y: 0.53607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 138
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28099975, y: 0.53607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 113
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2780782, y: 0.5360695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 88
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28391927, y: 0.5360704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 10
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 63
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28391927, y: 0.525764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 38
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.28099975, y: 0.5309166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firing Shotgun 12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 13
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.2751587, y: 0.52576303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 485
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3523327, y: 0.5098441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 452
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.33461303, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 419
+        width: 23
+        height: 21
+      alignment: 9
+      pivot: {x: 0.33444214, y: 0.5348714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 387
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0.25048375, y: 0.5073242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 355
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.22173461, y: 0.4845838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 323
+        width: 35
+        height: 17
+      alignment: 9
+      pivot: {x: 0.21964286, y: 0.46554026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 290
+        width: 38
+        height: 16
+      alignment: 9
+      pivot: {x: 0.20323503, y: 0.50915337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Reload Pistol 8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 258
+        width: 41
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2142334, y: 0.5563284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 456
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
